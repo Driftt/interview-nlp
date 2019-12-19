@@ -1,0 +1,7 @@
+#Atmos logs and tempdir
+atmos/tmp/*
+atmos.log
+*.swp
+embeddings/*.swp
+*.pyc
+.DS_Store
